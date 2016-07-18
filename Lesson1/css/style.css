@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Crafty+Girls);
+body{
+  background-image: url('http://s.hswstatic.com/gif/water-life-crop.jpg');
+cursor: url('http://d200d21vkfxp7.cloudfront.net/media/uploads/instagram/favicon_instagram.ico'), auto;
+}
+
+h2{
+  color: #F433FF;
+  font-size: 30px;
+  font-family: Apple Chancery;
+  text-align: center;
+}
+
+h2:hover
+{background: #BDEDFF;}
+
+
+p{
+  color: #F433FF;
+  font-size:20px;
+  font-family: Crafty Girls;
+  text-align: center;
+}
+
+li{
+  color: #F433FF;
+  font-size:20px;
+  font-family: Sacramento;
+  text-align: center;
+
+}
+
+ul{
+  list-style-position: inside;
+}
+
+
