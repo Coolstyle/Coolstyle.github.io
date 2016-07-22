@@ -5,6 +5,7 @@ body {
   background-image: url('http://www.theavengers.com.au/img/header.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 } 
 
 h1{
@@ -26,11 +27,12 @@ h3{
 }
 
 button{
-  margin-left: 640px;
   padding: 20px;
   font-size: 2.5em;
   border:3.5px dotted #000000;
-  font-family: Kalam;
+  font-family: "Kalam";
+  display: inline-block;
+  margin: 0 auto;
 }
 
 button:hover {
