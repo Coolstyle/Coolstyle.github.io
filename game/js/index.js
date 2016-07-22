@@ -581,7 +581,7 @@ function moveUltron2Right() {
   
      //Move Thor
  function moveThorRight() {
-    $("#Thor").animate({left: "+=400"}, 2000, moveThirLeft);
+    $("#Thor").animate({left: "+=400"}, 2000, moveThorLeft);
   }
   
    function moveThorLeft() { 
